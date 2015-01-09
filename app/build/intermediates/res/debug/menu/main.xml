@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wdil.whendidilast.MainActivity">
+
+    <item
+        android:id="@+id/new_counter"
+        android:orderInCategory="100"
+        android:title="@string/new_counter"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/existing_counter"
+        android:orderInCategory="100"
+        android:title="@string/existing_counter"
+        app:showAsAction="ifRoom"/>
+
+</menu>
+<!-- From: file:/C:/Users/Trey/Documents/WDIL/WhenDidILast/app/src/main/res/menu/main.xml -->

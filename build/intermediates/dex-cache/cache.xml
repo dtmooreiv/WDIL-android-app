@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Trey\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="C:\Users\Trey\Documents\WDIL\WhenDidILast\app\build\intermediates\pre-dexed\debug\joda-time-2.3-ff2e81f4c741f57eb3aeeaf0a476d0e7f3c3c1ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Trey\android-sdk_r21.0.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Trey\Documents\WDIL\WhenDidILast\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-3a7400e676f49474641c5545c72980d7d843adf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Trey\Documents\WDIL\WhenDidILast\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Trey\Documents\WDIL\WhenDidILast\app\build\intermediates\pre-dexed\debug\classes-8392bbd932e274171ae19b05118aa1a910a807a9.jar" />
+    </item>
+
+</items>

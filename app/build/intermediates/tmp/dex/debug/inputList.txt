@@ -1,0 +1,4 @@
+C:\Users\Trey\Documents\WDIL\WhenDidILast\app\build\intermediates\classes\debug
+C:\Users\Trey\Documents\WDIL\WhenDidILast\app\build\intermediates\pre-dexed\debug\classes-8392bbd932e274171ae19b05118aa1a910a807a9.jar
+C:\Users\Trey\Documents\WDIL\WhenDidILast\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-3a7400e676f49474641c5545c72980d7d843adf8.jar
+C:\Users\Trey\Documents\WDIL\WhenDidILast\app\build\intermediates\pre-dexed\debug\joda-time-2.3-ff2e81f4c741f57eb3aeeaf0a476d0e7f3c3c1ab.jar
